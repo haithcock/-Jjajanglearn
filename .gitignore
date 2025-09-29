@@ -4,3 +4,8 @@ backend/node_modules/
 frontend/node_modules/
 backend/prisma/dev.db
 
+
+
+# Added by cargo
+
+/target
