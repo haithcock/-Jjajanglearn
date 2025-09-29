@@ -1,0 +1,1 @@
+This was originall supposed to be a web app but I changed my mind and decided to write it using rust.
